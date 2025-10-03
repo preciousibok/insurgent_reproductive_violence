@@ -9,7 +9,7 @@ This dataset examines how insurgent groups use reproductive violence and forced 
 
 ### Files in this Repository
  'insurgent_data.csv': The main dataset (CSV format).
- 'codebook.pdf': The codebook describing all variables and sources.
+ 'codebook.doc': The codebook describing all variables and sources.
 
 #### Research Focus
 This data supports a research project theorizing that:
