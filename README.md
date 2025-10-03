@@ -19,5 +19,6 @@ This data supports a research project theorizing that:
 ##### Future Development
 This dataset is intended to be expanded, notably by incorporating forced pregnancy data from Lindsey Goldberg's work- ('Women’s roles and reproductive violence within armed rebellions') to further test hypotheses about social engineering versus opportunistic violence.
 
-*This is an independent research project maintained by Ibok Precious.*# insurgent_reproductive_violence
-A dataset on how insurgent groups use of reproductive violence as a social engineering tool.
+*This is an independent research project maintained by Ibok Precious.*# 'insurgent_reproductive_violence'
+
+A dataset on how insurgent groups use reproductive violence as a social engineering tool.
