@@ -12,7 +12,7 @@ The dataset introduces new variables and further categorizes insurgent groups in
 **Status**: Active development for graduate research on insurgent governance, reproductive violence, and political violence.
 
 Files in this Repository
-'insurgent_data.csv': The main dataset (CSV format) and R format. 
+'insurgent_data.xlsx': The main dataset (Excel format) and R format. 
 'R analysis script'.  
 'codebook.doc': The codebook describing all variables and sources.
 
